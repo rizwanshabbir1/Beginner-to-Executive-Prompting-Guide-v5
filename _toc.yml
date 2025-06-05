@@ -1,0 +1,1007 @@
+toc:
+  - title: Introduction
+    path: /introduction
+  - title: The Art & Science of Crafting Effective Prompts
+    path: /chapter-1-understanding-prompt-engineering-fundame/the-art-science-of-crafting-effective-prompts
+  - title: Basic Structure
+    path: /chapter-1-understanding-prompt-engineering-fundame/basic-structure
+  - title: Here are two sample prompts to help you get started.
+    path: /chapter-1-understanding-prompt-engineering-fundame/here-are-two-sample-prompts-to-help-you-get-starte
+  - title: Using Examples in Prompts:
+    path: /chapter-1-understanding-prompt-engineering-fundame/using-examples-in-prompts
+  - title: Summary: Key Prompting Principles for Large Language Models
+    path: /chapter-1-understanding-prompt-engineering-fundame/summary-key-prompting-principles-for-large-languag
+  - title: Pro Tips for Effective Prompting
+    path: /chapter-1-understanding-prompt-engineering-fundame/pro-tips-for-effective-prompting
+  - title: The Six-Element Approach for Better Text Results
+    path: /chapter-1-understanding-prompt-engineering-fundame/the-six-element-approach-for-better-text-results
+  - title: Application Example
+    path: /chapter-1-understanding-prompt-engineering-fundame/application-example
+  - title: Role-Based Prompt Engineering
+    path: /chapter-1-understanding-prompt-engineering-fundame/role-based-prompt-engineering
+  - title: Example:
+    path: /chapter-1-understanding-prompt-engineering-fundame/example
+  - title: T-A-G Structure (Task-Action-Goal)
+    path: /chapter-1-understanding-prompt-engineering-fundame/t-a-g-structure-task-action-goal
+  - title: C-A-R-E Structure (Context-Action-Result-Example)
+    path: /chapter-1-understanding-prompt-engineering-fundame/c-a-r-e-structure-context-action-result-example
+  - title: Example of Starter vs. Executive Prompt Starter Prompt:
+    path: /chapter-1-understanding-prompt-engineering-fundame/example-of-starter-vs-executive-prompt-starter-pro
+  - title: Executive Prompt:
+    path: /chapter-1-understanding-prompt-engineering-fundame/executive-prompt
+  - title: Strategic Assessment
+    path: /chapter-2-executive-leadership-strategy/strategic-assessment
+  - title: Starter Prompt:
+    path: /chapter-2-executive-leadership-strategy/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-2-executive-leadership-strategy/executive-prompt
+  - title: Why It Works:
+    path: /chapter-2-executive-leadership-strategy/why-it-works
+  - title: Decision Frameworks
+    path: /chapter-2-executive-leadership-strategy/decision-frameworks
+  - title: Starter Prompt:
+    path: /chapter-2-executive-leadership-strategy/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-2-executive-leadership-strategy/executive-prompt
+  - title: Why It Works:
+    path: /chapter-2-executive-leadership-strategy/why-it-works
+  - title: Bonus Prompt: Leadership Team Alignment
+    path: /chapter-2-executive-leadership-strategy/bonus-prompt-leadership-team-alignment
+  - title: Bonus Prompt: Strategic Communication Planning
+    path: /chapter-2-executive-leadership-strategy/bonus-prompt-strategic-communication-planning
+  - title: Bonus Prompt: Change Management Strategy
+    path: /chapter-2-executive-leadership-strategy/bonus-prompt-change-management-strategy
+  - title: Pro Tips for Executive Leadership & Strategy Prompts
+    path: /chapter-2-executive-leadership-strategy/pro-tips-for-executive-leadership-strategy-prompts
+  - title: 
+    path: /chapter-2-executive-leadership-strategy/
+  - title: SEO-Driven Blog Writing
+    path: /chapter-3-marketing-communications/seo-driven-blog-writing
+  - title: Starter Prompt:
+    path: /chapter-3-marketing-communications/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-3-marketing-communications/executive-prompt
+  - title: Why It Works:
+    path: /chapter-3-marketing-communications/why-it-works
+  - title: Social Media Ad Copy
+    path: /chapter-3-marketing-communications/social-media-ad-copy
+  - title: Starter Prompt:
+    path: /chapter-3-marketing-communications/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-3-marketing-communications/executive-prompt
+  - title: Why It Works:
+    path: /chapter-3-marketing-communications/why-it-works
+  - title: Email Newsletter Drafting
+    path: /chapter-3-marketing-communications/email-newsletter-drafting
+  - title: Starter Prompt:
+    path: /chapter-3-marketing-communications/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-3-marketing-communications/executive-prompt
+  - title: Why It Works:
+    path: /chapter-3-marketing-communications/why-it-works
+  - title: Competitor Profile Analysis
+    path: /chapter-3-marketing-communications/competitor-profile-analysis
+  - title: Starter Prompt:
+    path: /chapter-3-marketing-communications/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-3-marketing-communications/executive-prompt
+  - title: Why It Works:
+    path: /chapter-3-marketing-communications/why-it-works
+  - title: Bonus Prompt: Brand Messaging Framework
+    path: /chapter-3-marketing-communications/bonus-prompt-brand-messaging-framework
+  - title: Bonus Prompt: Marketing Campaign Structure
+    path: /chapter-3-marketing-communications/bonus-prompt-marketing-campaign-structure
+  - title: Pro Tips for Marketing & Communications Prompts
+    path: /chapter-3-marketing-communications/pro-tips-for-marketing-communications-prompts
+  - title: Content Development Starter Prompt:
+    path: /chapter-4-content-creation-copywriting/content-development-starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-4-content-creation-copywriting/executive-prompt
+  - title: Why It Works:
+    path: /chapter-4-content-creation-copywriting/why-it-works
+  - title: Business Planning Starter Prompt:
+    path: /chapter-4-content-creation-copywriting/business-planning-starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-4-content-creation-copywriting/executive-prompt
+  - title: Why It Works:
+    path: /chapter-4-content-creation-copywriting/why-it-works
+  - title: Learning Strategy Starter Prompt:
+    path: /chapter-4-content-creation-copywriting/learning-strategy-starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-4-content-creation-copywriting/executive-prompt
+  - title: Why It Works:
+    path: /chapter-4-content-creation-copywriting/why-it-works
+  - title: Negotiation Preparation Starter Prompt:
+    path: /chapter-4-content-creation-copywriting/negotiation-preparation-starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-4-content-creation-copywriting/executive-prompt
+  - title: Why It Works:
+    path: /chapter-4-content-creation-copywriting/why-it-works
+  - title: Executive Communication
+    path: /chapter-4-content-creation-copywriting/executive-communication
+  - title: Technical Writing
+    path: /chapter-4-content-creation-copywriting/technical-writing
+  - title: Bonus Prompt: Value Proposition Crafting
+    path: /chapter-4-content-creation-copywriting/bonus-prompt-value-proposition-crafting
+  - title: Pro Tips for Content Creation & Copywriting Prompts
+    path: /chapter-4-content-creation-copywriting/pro-tips-for-content-creation-copywriting-prompts
+  - title: Job-Ad Draft
+    path: /chapter-5-human-resources-talent-management/job-ad-draft
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Candidate Scorecard
+    path: /chapter-5-human-resources-talent-management/candidate-scorecard
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Attrition Forecast
+    path: /chapter-5-human-resources-talent-management/attrition-forecast
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: ATS Keyword Optimization
+    path: /chapter-5-human-resources-talent-management/ats-keyword-optimization
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Bonus Prompt: Performance Review Preparation
+    path: /chapter-5-human-resources-talent-management/bonus-prompt-performance-review-preparation
+  - title: Bonus Prompt: Employee Engagement Survey Design
+    path: /chapter-5-human-resources-talent-management/bonus-prompt-employee-engagement-survey-design
+  - title: Bonus Prompt: Competency Framework Development
+    path: /chapter-5-human-resources-talent-management/bonus-prompt-competency-framework-development
+  - title: Pro Tips for Human Resources & Talent Management Prompts
+    path: /chapter-5-human-resources-talent-management/pro-tips-for-human-resources-talent-management-pro
+  - title: Chapter 6: Finance & Investment Professionals
+    path: /chapter-5-human-resources-talent-management/chapter-6-finance-investment-professionals
+  - title: Financial Statement Summarization
+    path: /chapter-5-human-resources-talent-management/financial-statement-summarization
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Ratio & Trend Analysis
+    path: /chapter-5-human-resources-talent-management/ratio-trend-analysis
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Forecast Scenario Simulation
+    path: /chapter-5-human-resources-talent-management/forecast-scenario-simulation
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Asset Allocation Review
+    path: /chapter-5-human-resources-talent-management/asset-allocation-review
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Bonus Prompt: Financial Variance Analysis
+    path: /chapter-5-human-resources-talent-management/bonus-prompt-financial-variance-analysis
+  - title: Bonus Prompt: Investment Thesis Development
+    path: /chapter-5-human-resources-talent-management/bonus-prompt-investment-thesis-development
+  - title: Bonus Prompt: Financial Modeling Framework
+    path: /chapter-5-human-resources-talent-management/bonus-prompt-financial-modeling-framework
+  - title: Pro Tips for Finance & Investment Professional Prompts
+    path: /chapter-5-human-resources-talent-management/pro-tips-for-finance-investment-professional-promp
+  - title: Chapter 7: Project Management & Operations
+    path: /chapter-5-human-resources-talent-management/chapter-7-project-management-operations
+  - title: Work-Breakdown Structure
+    path: /chapter-5-human-resources-talent-management/work-breakdown-structure
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Gantt Timeline
+    path: /chapter-5-human-resources-talent-management/gantt-timeline
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Risk Log
+    path: /chapter-5-human-resources-talent-management/risk-log
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Process Mapping & Optimization
+    path: /chapter-5-human-resources-talent-management/process-mapping-optimization
+  - title: Starter Prompt:
+    path: /chapter-5-human-resources-talent-management/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-5-human-resources-talent-management/executive-prompt
+  - title: Why It Works:
+    path: /chapter-5-human-resources-talent-management/why-it-works
+  - title: Bonus Prompt: Standard Operating Procedure Development
+    path: /chapter-5-human-resources-talent-management/bonus-prompt-standard-operating-procedure-developm
+  - title: Bonus Prompt: Operational Metrics Dashboard Design
+    path: /chapter-5-human-resources-talent-management/bonus-prompt-operational-metrics-dashboard-design
+  - title: Bonus Prompt: Project Status Reporting Template
+    path: /chapter-5-human-resources-talent-management/bonus-prompt-project-status-reporting-template
+  - title: 
+    path: /chapter-5-human-resources-talent-management/
+  - title: Pro Tips for Project Management & Operations Prompts
+    path: /chapter-5-human-resources-talent-management/pro-tips-for-project-management-operations-prompts
+  - title: Sales Playbook Creation
+    path: /chapter-8-sales-customer-experience/sales-playbook-creation
+  - title: Starter Prompt:
+    path: /chapter-8-sales-customer-experience/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-8-sales-customer-experience/executive-prompt
+  - title: Why It Works:
+    path: /chapter-8-sales-customer-experience/why-it-works
+  - title: Objection Handling Framework
+    path: /chapter-8-sales-customer-experience/objection-handling-framework
+  - title: Starter Prompt:
+    path: /chapter-8-sales-customer-experience/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-8-sales-customer-experience/executive-prompt
+  - title: Why It Works:
+    path: /chapter-8-sales-customer-experience/why-it-works
+  - title: Sales Email Sequence Design
+    path: /chapter-8-sales-customer-experience/sales-email-sequence-design
+  - title: Starter Prompt:
+    path: /chapter-8-sales-customer-experience/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-8-sales-customer-experience/executive-prompt
+  - title: Why It Works:
+    path: /chapter-8-sales-customer-experience/why-it-works
+  - title: Bonus Prompt: Customer Journey Mapping
+    path: /chapter-8-sales-customer-experience/bonus-prompt-customer-journey-mapping
+  - title: Bonus Prompt: Voice of Customer Analysis Framework
+    path: /chapter-8-sales-customer-experience/bonus-prompt-voice-of-customer-analysis-framework
+  - title: Bonus Prompt: Customer Success Plan Template
+    path: /chapter-8-sales-customer-experience/bonus-prompt-customer-success-plan-template
+  - title: Pro Tips for Sales & Customer Experience Prompts
+    path: /chapter-8-sales-customer-experience/pro-tips-for-sales-customer-experience-prompts
+  - title: AML Alert Explanation
+    path: /chapter-9-risk-management-compliance/aml-alert-explanation
+  - title: Starter Prompt:
+    path: /chapter-9-risk-management-compliance/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-9-risk-management-compliance/executive-prompt
+  - title: Why It Works:
+    path: /chapter-9-risk-management-compliance/why-it-works
+  - title: Policy Draft
+    path: /chapter-9-risk-management-compliance/policy-draft
+  - title: Starter Prompt:
+    path: /chapter-9-risk-management-compliance/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-9-risk-management-compliance/executive-prompt
+  - title: Why It Works:
+    path: /chapter-9-risk-management-compliance/why-it-works
+  - title: Control-Gap Analysis
+    path: /chapter-9-risk-management-compliance/control-gap-analysis
+  - title: Starter Prompt:
+    path: /chapter-9-risk-management-compliance/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-9-risk-management-compliance/executive-prompt
+  - title: Why It Works:
+    path: /chapter-9-risk-management-compliance/why-it-works
+  - title: Bonus Prompt: Risk Assessment Framework
+    path: /chapter-9-risk-management-compliance/bonus-prompt-risk-assessment-framework
+  - title: Bonus Prompt: Compliance Training Materials
+    path: /chapter-9-risk-management-compliance/bonus-prompt-compliance-training-materials
+  - title: Bonus Prompt: Regulatory Response Strategy
+    path: /chapter-9-risk-management-compliance/bonus-prompt-regulatory-response-strategy
+  - title: Pro Tips for Risk Management & Compliance Prompts
+    path: /chapter-9-risk-management-compliance/pro-tips-for-risk-management-compliance-prompts
+  - title: Product Names
+    path: /chapter-10-product-management-development/product-names
+  - title: Starter Prompt:
+    path: /chapter-10-product-management-development/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-10-product-management-development/executive-prompt
+  - title: Why It Works:
+    path: /chapter-10-product-management-development/why-it-works
+  - title: Feature Ideation
+    path: /chapter-10-product-management-development/feature-ideation
+  - title: Starter Prompt:
+    path: /chapter-10-product-management-development/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-10-product-management-development/executive-prompt
+  - title: Why It Works:
+    path: /chapter-10-product-management-development/why-it-works
+  - title: Marketing Angles
+    path: /chapter-10-product-management-development/marketing-angles
+  - title: Starter Prompt:
+    path: /chapter-10-product-management-development/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-10-product-management-development/executive-prompt
+  - title: Why It Works:
+    path: /chapter-10-product-management-development/why-it-works
+  - title: Product Strategy Formulation
+    path: /chapter-10-product-management-development/product-strategy-formulation
+  - title: Starter Prompt:
+    path: /chapter-10-product-management-development/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-10-product-management-development/executive-prompt
+  - title: Why It Works:
+    path: /chapter-10-product-management-development/why-it-works
+  - title: 
+    path: /chapter-10-product-management-development/
+  - title: Bonus Prompt: User Story Development
+    path: /chapter-10-product-management-development/bonus-prompt-user-story-development
+  - title: Bonus Prompt: Feature Prioritization Framework
+    path: /chapter-10-product-management-development/bonus-prompt-feature-prioritization-framework
+  - title: Bonus Prompt: Product Launch Plan
+    path: /chapter-10-product-management-development/bonus-prompt-product-launch-plan
+  - title: Pro Tips for Product Management & Development Prompts
+    path: /chapter-10-product-management-development/pro-tips-for-product-management-development-prompt
+  - title: Introduction
+    path: /chapter-11-data-analysis-business-intelligence/introduction
+  - title: KPI Summary
+    path: /chapter-11-data-analysis-business-intelligence/kpi-summary
+  - title: Starter Prompt:
+    path: /chapter-11-data-analysis-business-intelligence/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-11-data-analysis-business-intelligence/executive-prompt
+  - title: Why It Works:
+    path: /chapter-11-data-analysis-business-intelligence/why-it-works
+  - title: Starter Prompt:
+    path: /chapter-11-data-analysis-business-intelligence/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-11-data-analysis-business-intelligence/executive-prompt
+  - title: Why It Works:
+    path: /chapter-11-data-analysis-business-intelligence/why-it-works
+  - title: Insight Commentary
+    path: /chapter-11-data-analysis-business-intelligence/insight-commentary
+  - title: Starter Prompt:
+    path: /chapter-11-data-analysis-business-intelligence/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-11-data-analysis-business-intelligence/executive-prompt
+  - title: Why It Works:
+    path: /chapter-11-data-analysis-business-intelligence/why-it-works
+  - title: Strategic Planning Scenario Support
+    path: /chapter-11-data-analysis-business-intelligence/strategic-planning-scenario-support
+  - title: Starter Prompt:
+    path: /chapter-11-data-analysis-business-intelligence/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-11-data-analysis-business-intelligence/executive-prompt
+  - title: Why It Works:
+    path: /chapter-11-data-analysis-business-intelligence/why-it-works
+  - title: Bonus Prompt: Analysis Framework Development
+    path: /chapter-11-data-analysis-business-intelligence/bonus-prompt-analysis-framework-development
+  - title: Bonus Prompt: Dashboard Design Specification
+    path: /chapter-11-data-analysis-business-intelligence/bonus-prompt-dashboard-design-specification
+  - title: Bonus Prompt: Root Cause Analysis Framework
+    path: /chapter-11-data-analysis-business-intelligence/bonus-prompt-root-cause-analysis-framework
+  - title: Pro Tips for Data Analysis & Business Intelligence Prompts
+    path: /chapter-11-data-analysis-business-intelligence/pro-tips-for-data-analysis-business-intelligence-p
+  - title: Introduction
+    path: /chapter-12-it-operations-development/introduction
+  - title: Bug Detection & Fixing
+    path: /chapter-12-it-operations-development/bug-detection-fixing
+  - title: Starter Prompt:
+    path: /chapter-12-it-operations-development/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-12-it-operations-development/executive-prompt
+  - title: Why It Works:
+    path: /chapter-12-it-operations-development/why-it-works
+  - title: Code Explanation & Commenting
+    path: /chapter-12-it-operations-development/code-explanation-commenting
+  - title: Starter Prompt:
+    path: /chapter-12-it-operations-development/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-12-it-operations-development/executive-prompt
+  - title: Why It Works:
+    path: /chapter-12-it-operations-development/why-it-works
+  - title: Log Diagnosis
+    path: /chapter-12-it-operations-development/log-diagnosis
+  - title: Starter Prompt:
+    path: /chapter-12-it-operations-development/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-12-it-operations-development/executive-prompt
+  - title: Why It Works:
+    path: /chapter-12-it-operations-development/why-it-works
+  - title: Playbook Generation
+    path: /chapter-12-it-operations-development/playbook-generation
+  - title: Starter Prompt:
+    path: /chapter-12-it-operations-development/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-12-it-operations-development/executive-prompt
+  - title: Why It Works:
+    path: /chapter-12-it-operations-development/why-it-works
+  - title: Bonus Prompt: Code Review Checklist
+    path: /chapter-12-it-operations-development/bonus-prompt-code-review-checklist
+  - title: Bonus Prompt: Technology Selection Framework
+    path: /chapter-12-it-operations-development/bonus-prompt-technology-selection-framework
+  - title: Pro Tips for IT Operations & Development Prompts
+    path: /chapter-12-it-operations-development/pro-tips-for-it-operations-development-prompts
+  - title: Introduction
+    path: /chapter-13-legal-professionals/introduction
+  - title: Clause Comparison
+    path: /chapter-13-legal-professionals/clause-comparison
+  - title: Starter Prompt:
+    path: /chapter-13-legal-professionals/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-13-legal-professionals/executive-prompt
+  - title: Why It Works:
+    path: /chapter-13-legal-professionals/why-it-works
+  - title: Contract Summary
+    path: /chapter-13-legal-professionals/contract-summary
+  - title: Starter Prompt:
+    path: /chapter-13-legal-professionals/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-13-legal-professionals/executive-prompt
+  - title: Why It Works:
+    path: /chapter-13-legal-professionals/why-it-works
+  - title: Risk Clause Generation
+    path: /chapter-13-legal-professionals/risk-clause-generation
+  - title: Starter Prompt:
+    path: /chapter-13-legal-professionals/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-13-legal-professionals/executive-prompt
+  - title: Why It Works:
+    path: /chapter-13-legal-professionals/why-it-works
+  - title: Bonus Prompt: Legal Research Memo
+    path: /chapter-13-legal-professionals/bonus-prompt-legal-research-memo
+  - title: Bonus Prompt: Compliance Assessment Checklist
+    path: /chapter-13-legal-professionals/bonus-prompt-compliance-assessment-checklist
+  - title: Bonus Prompt: Plain Language Legal Explanation
+    path: /chapter-13-legal-professionals/bonus-prompt-plain-language-legal-explanation
+  - title: Pro Tips for Legal Professional Prompts
+    path: /chapter-13-legal-professionals/pro-tips-for-legal-professional-prompts
+  - title: Introduction
+    path: /chapter-14-healthcare-medical-communication/introduction
+  - title: Visit-Note Summarization
+    path: /chapter-14-healthcare-medical-communication/visit-note-summarization
+  - title: Starter Prompt:
+    path: /chapter-14-healthcare-medical-communication/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-14-healthcare-medical-communication/executive-prompt
+  - title: Why It Works:
+    path: /chapter-14-healthcare-medical-communication/why-it-works
+  - title: Patient-Friendly Letter
+    path: /chapter-14-healthcare-medical-communication/patient-friendly-letter
+  - title: Starter Prompt:
+    path: /chapter-14-healthcare-medical-communication/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-14-healthcare-medical-communication/executive-prompt
+  - title: Why It Works:
+    path: /chapter-14-healthcare-medical-communication/why-it-works
+  - title: Clinical Trial Abstract
+    path: /chapter-14-healthcare-medical-communication/clinical-trial-abstract
+  - title: Starter Prompt:
+    path: /chapter-14-healthcare-medical-communication/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-14-healthcare-medical-communication/executive-prompt
+  - title: Why It Works:
+    path: /chapter-14-healthcare-medical-communication/why-it-works
+  - title: Bonus Prompt: Medical Literature Review
+    path: /chapter-14-healthcare-medical-communication/bonus-prompt-medical-literature-review
+  - title: Bonus Prompt: Interdisciplinary Care Plan
+    path: /chapter-14-healthcare-medical-communication/bonus-prompt-interdisciplinary-care-plan
+  - title: Bonus Prompt: Health Education Materials
+    path: /chapter-14-healthcare-medical-communication/bonus-prompt-health-education-materials
+  - title: Pro Tips for Healthcare & Medical Communication Prompts
+    path: /chapter-14-healthcare-medical-communication/pro-tips-for-healthcare-medical-communication-prom
+  - title: Micro-learning Module
+    path: /chapter-15-education-training/micro-learning-module
+  - title: Starter Prompt:
+    path: /chapter-15-education-training/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-15-education-training/executive-prompt
+  - title: Why It Works:
+    path: /chapter-15-education-training/why-it-works
+  - title: Curriculum Development
+    path: /chapter-15-education-training/curriculum-development
+  - title: Starter Prompt:
+    path: /chapter-15-education-training/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-15-education-training/executive-prompt
+  - title: Why It Works:
+    path: /chapter-15-education-training/why-it-works
+  - title: Assessment Creation
+    path: /chapter-15-education-training/assessment-creation
+  - title: Starter Prompt:
+    path: /chapter-15-education-training/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-15-education-training/executive-prompt
+  - title: Why It Works:
+    path: /chapter-15-education-training/why-it-works
+  - title: Bonus Prompt: Learning Experience Design
+    path: /chapter-15-education-training/bonus-prompt-learning-experience-design
+  - title: Bonus Prompt: Instructional Content Creation
+    path: /chapter-15-education-training/bonus-prompt-instructional-content-creation
+  - title: Bonus Prompt: Learning Path Development
+    path: /chapter-15-education-training/bonus-prompt-learning-path-development
+  - title: Pro Tips for Education & Training Prompts
+    path: /chapter-15-education-training/pro-tips-for-education-training-prompts
+  - title: Micro-learning Module
+    path: /chapter-16-analytical-logical-thinking/micro-learning-module
+  - title: Starter Prompt:
+    path: /chapter-16-analytical-logical-thinking/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-16-analytical-logical-thinking/executive-prompt
+  - title: Why It Works:
+    path: /chapter-16-analytical-logical-thinking/why-it-works
+  - title: Curriculum Development
+    path: /chapter-16-analytical-logical-thinking/curriculum-development
+  - title: Starter Prompt:
+    path: /chapter-16-analytical-logical-thinking/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-16-analytical-logical-thinking/executive-prompt
+  - title: Why It Works:
+    path: /chapter-16-analytical-logical-thinking/why-it-works
+  - title: Assessment Creation
+    path: /chapter-16-analytical-logical-thinking/assessment-creation
+  - title: Starter Prompt:
+    path: /chapter-16-analytical-logical-thinking/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-16-analytical-logical-thinking/executive-prompt
+  - title: Why It Works:
+    path: /chapter-16-analytical-logical-thinking/why-it-works
+  - title: Bonus Prompt: Learning Experience Design
+    path: /chapter-16-analytical-logical-thinking/bonus-prompt-learning-experience-design
+  - title: Bonus Prompt: Instructional Content Creation
+    path: /chapter-16-analytical-logical-thinking/bonus-prompt-instructional-content-creation
+  - title: Bonus Prompt: Learning Path Development
+    path: /chapter-16-analytical-logical-thinking/bonus-prompt-learning-path-development
+  - title: Pro Tips for Education & Training Prompts
+    path: /chapter-16-analytical-logical-thinking/pro-tips-for-education-training-prompts
+  - title: Introduction
+    path: /chapter-16-analytical-logical-thinking/introduction
+  - title: Decision Analysis Framework
+    path: /chapter-16-analytical-logical-thinking/decision-analysis-framework
+  - title: Starter Prompt:
+    path: /chapter-16-analytical-logical-thinking/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-16-analytical-logical-thinking/executive-prompt
+  - title: Why It Works:
+    path: /chapter-16-analytical-logical-thinking/why-it-works
+  - title: Comparative Evaluation
+    path: /chapter-16-analytical-logical-thinking/comparative-evaluation
+  - title: Starter Prompt:
+    path: /chapter-16-analytical-logical-thinking/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-16-analytical-logical-thinking/executive-prompt
+  - title: Why It Works:
+    path: /chapter-16-analytical-logical-thinking/why-it-works
+  - title: Root Cause Analysis
+    path: /chapter-16-analytical-logical-thinking/root-cause-analysis
+  - title: Starter Prompt:
+    path: /chapter-16-analytical-logical-thinking/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-16-analytical-logical-thinking/executive-prompt
+  - title: Why It Works:
+    path: /chapter-16-analytical-logical-thinking/why-it-works
+  - title: Bonus Prompt: Assumption Testing
+    path: /chapter-16-analytical-logical-thinking/bonus-prompt-assumption-testing
+  - title: Bonus Prompt: Trade-off Analysis
+    path: /chapter-16-analytical-logical-thinking/bonus-prompt-trade-off-analysis
+  - title: Bonus Prompt: Logical Fallacy Detection
+    path: /chapter-16-analytical-logical-thinking/bonus-prompt-logical-fallacy-detection
+  - title: Pro Tips for Analytical & Logical Thinking Prompts
+    path: /chapter-16-analytical-logical-thinking/pro-tips-for-analytical-logical-thinking-prompts
+  - title: Introduction
+    path: /chapter-17-creative-visual-output/introduction
+  - title: Image Creation Approaches
+    path: /chapter-17-creative-visual-output/image-creation-approaches
+  - title: Starter Prompt:
+    path: /chapter-17-creative-visual-output/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-17-creative-visual-output/executive-prompt
+  - title: Example:
+    path: /chapter-17-creative-visual-output/example
+  - title: Why It Works:
+    path: /chapter-17-creative-visual-output/why-it-works
+  - title: Design Brief Development
+    path: /chapter-17-creative-visual-output/design-brief-development
+  - title: Starter Prompt:
+    path: /chapter-17-creative-visual-output/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-17-creative-visual-output/executive-prompt
+  - title: Why It Works:
+    path: /chapter-17-creative-visual-output/why-it-works
+  - title: Creative Ideation
+    path: /chapter-17-creative-visual-output/creative-ideation
+  - title: Starter Prompt:
+    path: /chapter-17-creative-visual-output/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-17-creative-visual-output/executive-prompt
+  - title: Why It Works:
+    path: /chapter-17-creative-visual-output/why-it-works
+  - title: Bonus Prompt: Narrative Development
+    path: /chapter-17-creative-visual-output/bonus-prompt-narrative-development
+  - title: Bonus Prompt: Visual Content Strategy
+    path: /chapter-17-creative-visual-output/bonus-prompt-visual-content-strategy
+  - title: Bonus Prompt: Creative Problem-Solving
+    path: /chapter-17-creative-visual-output/bonus-prompt-creative-problem-solving
+  - title: Pro Tips for Creative & Visual Output Prompts
+    path: /chapter-17-creative-visual-output/pro-tips-for-creative-visual-output-prompts
+  - title: Introduction
+    path: /chapter-18-client-facing-relationship-activities/introduction
+  - title: Consultative Frameworks
+    path: /chapter-18-client-facing-relationship-activities/consultative-frameworks
+  - title: Starter Prompt:
+    path: /chapter-18-client-facing-relationship-activities/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-18-client-facing-relationship-activities/executive-prompt
+  - title: Why It Works:
+    path: /chapter-18-client-facing-relationship-activities/why-it-works
+  - title: Presentation Development
+    path: /chapter-18-client-facing-relationship-activities/presentation-development
+  - title: Starter Prompt:
+    path: /chapter-18-client-facing-relationship-activities/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-18-client-facing-relationship-activities/executive-prompt
+  - title: Why It Works:
+    path: /chapter-18-client-facing-relationship-activities/why-it-works
+  - title: Relationship Management
+    path: /chapter-18-client-facing-relationship-activities/relationship-management
+  - title: Starter Prompt:
+    path: /chapter-18-client-facing-relationship-activities/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-18-client-facing-relationship-activities/executive-prompt
+  - title: Why It Works:
+    path: /chapter-18-client-facing-relationship-activities/why-it-works
+  - title: Bonus Prompt: Client Needs Assessment
+    path: /chapter-18-client-facing-relationship-activities/bonus-prompt-client-needs-assessment
+  - title: 
+    path: /chapter-18-client-facing-relationship-activities/
+  - title: Bonus Prompt: Expectation Management Framework
+    path: /chapter-18-client-facing-relationship-activities/bonus-prompt-expectation-management-framework
+  - title: Bonus Prompt: Value Proposition Communication
+    path: /chapter-18-client-facing-relationship-activities/bonus-prompt-value-proposition-communication
+  - title: Introduction
+    path: /chapter-19-strategic-decision-making-tasks/introduction
+  - title: Scenario Planning
+    path: /chapter-19-strategic-decision-making-tasks/scenario-planning
+  - title: Starter Prompt:
+    path: /chapter-19-strategic-decision-making-tasks/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-19-strategic-decision-making-tasks/executive-prompt
+  - title: Why It Works:
+    path: /chapter-19-strategic-decision-making-tasks/why-it-works
+  - title: Strategic Assessment
+    path: /chapter-19-strategic-decision-making-tasks/strategic-assessment
+  - title: Starter Prompt:
+    path: /chapter-19-strategic-decision-making-tasks/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-19-strategic-decision-making-tasks/executive-prompt
+  - title: Why It Works:
+    path: /chapter-19-strategic-decision-making-tasks/why-it-works
+  - title: Opportunity Evaluation
+    path: /chapter-19-strategic-decision-making-tasks/opportunity-evaluation
+  - title: Starter Prompt:
+    path: /chapter-19-strategic-decision-making-tasks/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-19-strategic-decision-making-tasks/executive-prompt
+  - title: Why It Works:
+    path: /chapter-19-strategic-decision-making-tasks/why-it-works
+  - title: Bonus Prompt: Strategic Planning Framework
+    path: /chapter-19-strategic-decision-making-tasks/bonus-prompt-strategic-planning-framework
+  - title: Bonus Prompt: Decision-Making Under Uncertainty
+    path: /chapter-19-strategic-decision-making-tasks/bonus-prompt-decision-making-under-uncertainty
+  - title: Bonus Prompt: Strategic Resource Allocation
+    path: /chapter-19-strategic-decision-making-tasks/bonus-prompt-strategic-resource-allocation
+  - title: Pro Tips for Strategic & Decision-Making Prompts
+    path: /chapter-19-strategic-decision-making-tasks/pro-tips-for-strategic-decision-making-prompts
+  - title: Introduction
+    path: /chapter-20-technical-implementation-problem-solvin/introduction
+  - title: Troubleshooting Frameworks
+    path: /chapter-20-technical-implementation-problem-solvin/troubleshooting-frameworks
+  - title: Starter Prompt:
+    path: /chapter-20-technical-implementation-problem-solvin/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-20-technical-implementation-problem-solvin/executive-prompt
+  - title: Why It Works:
+    path: /chapter-20-technical-implementation-problem-solvin/why-it-works
+  - title: Technical Documentation
+    path: /chapter-20-technical-implementation-problem-solvin/technical-documentation
+  - title: Starter Prompt:
+    path: /chapter-20-technical-implementation-problem-solvin/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-20-technical-implementation-problem-solvin/executive-prompt
+  - title: Why It Works:
+    path: /chapter-20-technical-implementation-problem-solvin/why-it-works
+  - title: Solution Development
+    path: /chapter-20-technical-implementation-problem-solvin/solution-development
+  - title: Starter Prompt:
+    path: /chapter-20-technical-implementation-problem-solvin/starter-prompt
+  - title: Executive Prompt:
+    path: /chapter-20-technical-implementation-problem-solvin/executive-prompt
+  - title: Why It Works:
+    path: /chapter-20-technical-implementation-problem-solvin/why-it-works
+  - title: Bonus Prompt: Integration Planning
+    path: /chapter-20-technical-implementation-problem-solvin/bonus-prompt-integration-planning
+  - title: 
+    path: /chapter-20-technical-implementation-problem-solvin/
+  - title: Bonus Prompt: Technical Requirements Gathering
+    path: /chapter-20-technical-implementation-problem-solvin/bonus-prompt-technical-requirements-gathering
+  - title: Bonus Prompt: System Design Approach
+    path: /chapter-20-technical-implementation-problem-solvin/bonus-prompt-system-design-approach
+  - title: Pro Tips for Strategic & Decision-Making Prompts
+    path: /chapter-20-technical-implementation-problem-solvin/pro-tips-for-strategic-decision-making-prompts
+  - title: Why Use AI for Interview Preparation? Five Key Advantages
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/why-use-ai-for-interview-preparation-five-key-adva
+  - title: Accelerated Preparation Efficiency
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/accelerated-preparation-efficiency
+  - title: Enhanced Research Capabilities
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/enhanced-research-capabilities
+  - title: Structured Answer Development
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/structured-answer-development
+  - title: Unlimited Practice Opportunities
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/unlimited-practice-opportunities
+  - title: Objective Feedback and Analysis
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/objective-feedback-and-analysis
+  - title: The Four Cs of Prompt Engineering for Interview Preparation
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/the-four-cs-of-prompt-engineering-for-interview-pr
+  - title: Clarity: Precision in Your Requests
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/clarity-precision-in-your-requests
+  - title: Context: Providing Relevant Background Information
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/context-providing-relevant-background-information
+  - title: Constraints: Setting Parameters for Responses
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/constraints-setting-parameters-for-responses
+  - title: Examples of applicable constraints:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/examples-of-applicable-constraints
+  - title: Cycle: Iterative Refinement
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/cycle-iterative-refinement
+  - title: Example of cycling:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/example-of-cycling
+  - title: The Seven-Step AI-Powered Interview Preparation Framework
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/the-seven-step-ai-powered-interview-preparation-fr
+  - title: Step 1: Define Target Role
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/step-1-define-target-role
+  - title: Core Activities:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/core-activities
+  - title: Sample Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/sample-prompt
+  - title: Why This Works:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/why-this-works
+  - title: 
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/
+  - title: Step 2: Extract Key Requirements
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/step-2-extract-key-requirements
+  - title: Sample Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/sample-prompt
+  - title: Follow-up Analysis:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/follow-up-analysis
+  - title: Step 3: Generate Question Bank
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/step-3-generate-question-bank
+  - title: 
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/
+  - title: Sample Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/sample-prompt
+  - title: Question Bank Development Tips:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/question-bank-development-tips
+  - title: Step 4: Develop STAR Stories
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/step-4-develop-star-stories
+  - title: 
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/
+  - title: Sample Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/sample-prompt
+  - title: Story Development Strategy:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/story-development-strategy
+  - title: Step 5: Conduct Mock Interviews
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/step-5-conduct-mock-interviews
+  - title: Sample Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/sample-prompt
+  - title: Mock Interview Best Practices:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/mock-interview-best-practices
+  - title: Step 6: Refine Response Quality
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/step-6-refine-response-quality
+  - title: 
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/
+  - title: Content Refinement Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/content-refinement-prompt
+  - title: Refinement Focus Areas:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/refinement-focus-areas
+  - title: Step 7: Stress-Test Preparation
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/step-7-stress-test-preparation
+  - title: Stress-Testing Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/stress-testing-prompt
+  - title: 
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/
+  - title: Stress-Testing Categories:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/stress-testing-categories
+  - title: Advanced Prompt Templates for Deep Interview Preparation
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/advanced-prompt-templates-for-deep-interview-prepa
+  - title: Company Research Deep-Dive Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/company-research-deep-dive-prompt
+  - title: Industry Awareness Check Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/industry-awareness-check-prompt
+  - title: Compensation Research Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/compensation-research-prompt
+  - title: Cultural Fit Analysis Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/cultural-fit-analysis-prompt
+  - title: Values and Impact Research Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/values-and-impact-research-prompt
+  - title: Negotiation Practice Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/negotiation-practice-prompt
+  - title: Post-Interview Follow-Up Prompt:
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/post-interview-follow-up-prompt
+  - title: Advanced Techniques for Enhanced Interview Preparation Voice and Delivery Practice
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/advanced-techniques-for-enhanced-interview-prepara
+  - title: Sentiment and Impression Management
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/sentiment-and-impression-management
+  - title: Building Your Interview Assistant
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/building-your-interview-assistant
+  - title: Managing Authenticity and AI Assistance
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/managing-authenticity-and-ai-assistance
+  - title: Using AI as Enhancement, Not Replacement
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/using-ai-as-enhancement-not-replacement
+  - title: Avoiding Common Pitfalls
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/avoiding-common-pitfalls
+  - title: Practical Considerations and Limitations Understanding AI Capabilities and Constraints
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/practical-considerations-and-limitations-understan
+  - title: Privacy and Security Considerations
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/privacy-and-security-considerations
+  - title: Measuring Success and Continuous Improvement Tracking Preparation Effectiveness
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/measuring-success-and-continuous-improvement-track
+  - title: Iterative Enhancement
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/iterative-enhancement
+  - title: Building Long-Term Interview Excellence Developing Systematic Approaches
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/building-long-term-interview-excellence-developing
+  - title: Professional Development Integration
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/professional-development-integration
+  - title: Conclusion: Transforming Interview Preparation Through AI Partnership
+    path: /chapter-21-mastering-interview-skills-with-ai-prom/conclusion-transforming-interview-preparation-thro
+  - title: Introduction to RAG
+    path: /chapter-22-chatting-with-your-documents-a-beginner/introduction-to-rag
+  - title: Getting Started with Document Uploads
+    path: /chapter-22-chatting-with-your-documents-a-beginner/getting-started-with-document-uploads
+  - title: ChatGPT
+    path: /chapter-22-chatting-with-your-documents-a-beginner/chatgpt
+  - title: Step-by-step guide:
+    path: /chapter-22-chatting-with-your-documents-a-beginner/step-by-step-guide
+  - title: Claude
+    path: /chapter-22-chatting-with-your-documents-a-beginner/claude
+  - title: Step-by-step guide:
+    path: /chapter-22-chatting-with-your-documents-a-beginner/step-by-step-guide
+  - title: Google Gemini
+    path: /chapter-22-chatting-with-your-documents-a-beginner/google-gemini
+  - title: Step-by-step guide:
+    path: /chapter-22-chatting-with-your-documents-a-beginner/step-by-step-guide
+  - title: Effective Prompting Techniques
+    path: /chapter-22-chatting-with-your-documents-a-beginner/effective-prompting-techniques
+  - title: Be Specific and Contextual
+    path: /chapter-22-chatting-with-your-documents-a-beginner/be-specific-and-contextual
+  - title: Use Step-by-Step Questioning
+    path: /chapter-22-chatting-with-your-documents-a-beginner/use-step-by-step-questioning
+  - title: Request Specific Response Formats
+    path: /chapter-22-chatting-with-your-documents-a-beginner/request-specific-response-formats
+  - title: Encourage Comparative Analysis
+    path: /chapter-22-chatting-with-your-documents-a-beginner/encourage-comparative-analysis
+  - title: Specify Location When Necessary
+    path: /chapter-22-chatting-with-your-documents-a-beginner/specify-location-when-necessary
+  - title: Practical Examples
+    path: /chapter-22-chatting-with-your-documents-a-beginner/practical-examples
+  - title: Business Reports
+    path: /chapter-22-chatting-with-your-documents-a-beginner/business-reports
+  - title: Effective prompts:
+    path: /chapter-22-chatting-with-your-documents-a-beginner/effective-prompts
+  - title: Academic Papers
+    path: /chapter-22-chatting-with-your-documents-a-beginner/academic-papers
+  - title: 
+    path: /chapter-22-chatting-with-your-documents-a-beginner/
+  - title: Effective prompts:
+    path: /chapter-22-chatting-with-your-documents-a-beginner/effective-prompts
+  - title: Legal Documents
+    path: /chapter-22-chatting-with-your-documents-a-beginner/legal-documents
+  - title: Effective prompts:
+    path: /chapter-22-chatting-with-your-documents-a-beginner/effective-prompts
+  - title: Best Practices and Tips Document Preparation
+    path: /chapter-22-chatting-with-your-documents-a-beginner/best-practices-and-tips-document-preparation
+  - title: Handling Large Documents
+    path: /chapter-22-chatting-with-your-documents-a-beginner/handling-large-documents
+  - title: Privacy Considerations
+    path: /chapter-22-chatting-with-your-documents-a-beginner/privacy-considerations
+  - title: Verification is Essential
+    path: /chapter-22-chatting-with-your-documents-a-beginner/verification-is-essential
+  - title: The Future of Document Interaction
+    path: /chapter-22-chatting-with-your-documents-a-beginner/the-future-of-document-interaction
+  - title: Conclusion
+    path: /chapter-22-chatting-with-your-documents-a-beginner/conclusion
+  - title: 
+    path: /chapter-22-chatting-with-your-documents-a-beginner/
+  - title: Beyond Technical Proficiency: The Ultimate Frontier
+    path: /chapter-23-the-human-element-in-ai-mastery/beyond-technical-proficiency-the-ultimate-frontier
+  - title: Cultivating the Responsible AI Mindset
+    path: /chapter-23-the-human-element-in-ai-mastery/cultivating-the-responsible-ai-mindset
+  - title: The Intervention Framework
+    path: /chapter-23-the-human-element-in-ai-mastery/the-intervention-framework
+  - title: Democratizing AI Literacy Across the Organization
+    path: /chapter-23-the-human-element-in-ai-mastery/democratizing-ai-literacy-across-the-organization
+  - title: Implementing Day-to-Day Responsible Practices
+    path: /chapter-23-the-human-element-in-ai-mastery/implementing-day-to-day-responsible-practices
+  - title: The Daily Practice of Ethical AI Engagement
+    path: /chapter-23-the-human-element-in-ai-mastery/the-daily-practice-of-ethical-ai-engagement
+  - title: The Evolving Landscape of AI Mastery
+    path: /chapter-23-the-human-element-in-ai-mastery/the-evolving-landscape-of-ai-mastery
+  - title: Conclusion: Becoming the Master Promptsmith
+    path: /chapter-23-the-human-element-in-ai-mastery/conclusion-becoming-the-master-promptsmith
+  - title: Glossary Spotlight: Essential Prompting Concepts at a Glance
+    path: /chapter-23-the-human-element-in-ai-mastery/glossary-spotlight-essential-prompting-concepts-at
+  - title: Chain-of-Thought Prompting
+    path: /appendix-a-prompting-glossary/chain-of-thought-prompting
+  - title: Few-Shot Prompting
+    path: /appendix-a-prompting-glossary/few-shot-prompting
+  - title: Role Prompting
+    path: /appendix-a-prompting-glossary/role-prompting
+  - title: Template Variables
+    path: /appendix-a-prompting-glossary/template-variables
+  - title: Constraint Specification
+    path: /appendix-a-prompting-glossary/constraint-specification
+  - title: Output Structuring
+    path: /appendix-a-prompting-glossary/output-structuring
+  - title: Reasoning Direction
+    path: /appendix-a-prompting-glossary/reasoning-direction
+  - title: 
+    path: /appendix-a-prompting-glossary/
+  - title: Prompt Chaining
+    path: /appendix-a-prompting-glossary/prompt-chaining
+  - title: Meta-Prompting
+    path: /appendix-a-prompting-glossary/meta-prompting
+  - title: System Message
+    path: /appendix-a-prompting-glossary/system-message
+  - title: Appendix B: Risk and Security for Prompting
+    path: /appendix-a-prompting-glossary/appendix-b-risk-and-security-for-prompting
+  - title: AI Security Risk Scenarios
+    path: /appendix-a-prompting-glossary/ai-security-risk-scenarios
+  - title: Part 2: Evaluating AI Outputs
+    path: /appendix-a-prompting-glossary/part-2-evaluating-ai-outputs
+  - title: Directive Style
+    path: /appendix-c-prompting-use-styles/directive-style
+  - title: Collaborative Style
+    path: /appendix-c-prompting-use-styles/collaborative-style
+  - title: Example:
+    path: /appendix-c-prompting-use-styles/example
+  - title: Exploratory Style
+    path: /appendix-c-prompting-use-styles/exploratory-style
+  - title: Socratic Style
+    path: /appendix-c-prompting-use-styles/socratic-style
+  - title: Technical Style
+    path: /appendix-c-prompting-use-styles/technical-style
+  - title: Narrative Style
+    path: /appendix-c-prompting-use-styles/narrative-style
+  - title: Example:
+    path: /appendix-c-prompting-use-styles/example
+  - title: Official Documentation and Guides
+    path: /appendix-d-resources-and-tools/official-documentation-and-guides
+  - title: Prompt Management Tools
+    path: /appendix-d-resources-and-tools/prompt-management-tools
+  - title: Educational Resources
+    path: /appendix-d-resources-and-tools/educational-resources
+  - title: Visual Instruction Assistants
+    path: /appendix-d-resources-and-tools/visual-instruction-assistants
+  - title: Community Resources
+    path: /appendix-d-resources-and-tools/community-resources
+  - title: The New Business Currency
+    path: /conclusion-the-future-of-prompt-mastery/the-new-business-currency
+  - title: Beyond the Prompt: The Evolving Landscape
+    path: /conclusion-the-future-of-prompt-mastery/beyond-the-prompt-the-evolving-landscape
+  - title: Your Path Forward
+    path: /conclusion-the-future-of-prompt-mastery/your-path-forward
+  - title: Acknowledgments
+    path: /about-the-authors/acknowledgments
